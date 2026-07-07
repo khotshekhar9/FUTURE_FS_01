@@ -281,7 +281,7 @@ h3 {
   box-shadow: var(--shadow);
   
   /* 2. Position Shift (Moves it slightly UP and RIGHT) */
-  transform: translate(75px, -20px);
+  transform: translate(40px, -20px);
   
   /* 3. Highlight on Borders (Dual Border Effect) */
   border: 3px solid transparent;
